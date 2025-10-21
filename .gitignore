@@ -1,0 +1,22 @@
+
+# Python bytecode
+__pycache__/
+__pychache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+env/
+ENV/
+.venv/
+.ENV/
+
+# VSCode
+.vscode/
+
+# Archivos de imágenes
+*.png
+
+# Otros
+.DS_Store
